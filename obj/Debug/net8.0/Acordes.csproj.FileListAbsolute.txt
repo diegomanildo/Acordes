@@ -1,0 +1,14 @@
+C:\Users\diego\Downloads\code\csharp\Acordes\bin\Debug\net8.0\Acordes.exe
+C:\Users\diego\Downloads\code\csharp\Acordes\bin\Debug\net8.0\Acordes.deps.json
+C:\Users\diego\Downloads\code\csharp\Acordes\bin\Debug\net8.0\Acordes.runtimeconfig.json
+C:\Users\diego\Downloads\code\csharp\Acordes\bin\Debug\net8.0\Acordes.dll
+C:\Users\diego\Downloads\code\csharp\Acordes\bin\Debug\net8.0\Acordes.pdb
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.AssemblyInfo.cs
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.dll
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\refint\Acordes.dll
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.pdb
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\Acordes.genruntimeconfig.cache
+C:\Users\diego\Downloads\code\csharp\Acordes\obj\Debug\net8.0\ref\Acordes.dll
